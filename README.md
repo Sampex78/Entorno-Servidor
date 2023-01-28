@@ -7,9 +7,12 @@
 ![](https://i0.wp.com/www.unica360.com/wp-content/uploads/base_datos_clientes_marketing_analisis_comp.jpg)
 
 <h3>Usar</h3>
-- Debe cambiar el usuario y la contraseña de acceso a la BD si estas no son<b><i>'root' y  ' '</b></i> respectivamente.
-- Importar en MySQL las BBDD proporcionadas.
-- Copiar la carpeta a la ruta de instalación de PHP.
+<ul>
+  <li>- Debe cambiar el usuario y la contraseña de acceso a la BD si estas no son<b><i>'root' y  ' '</b></i> respectivamente.</li>
+  <li>- Importar en MySQL las BBDD proporcionadas.</li>
+  <li>- Copiar la carpeta a la ruta de instalación de PHP.</li>
+
+
 
 <h3>Implementaciones</h3>
 EjeMockaroo-CRUD incluye las siguientes mejoras:
