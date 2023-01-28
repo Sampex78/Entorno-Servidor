@@ -11,9 +11,7 @@
   <li>Debe cambiar el usuario y la contraseña de acceso a la BD, si estas no son<b><i>'root' y  ' '</b></i> respectivamente.</li>
   <li>Extraer el archivo "EjeMockaroo-CRUD.zip" y copiar la carpeta del proyecto en la ruta de instalación de PHP.</li>
   <li>Importar en MySQL las BBDD proporcionadas.</li>
-  
-
-
+</ul>
 
 <h3>Implementaciones</h3>
 EjeMockaroo-CRUD incluye las siguientes mejoras:
