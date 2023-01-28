@@ -2,7 +2,7 @@
 
 ## EjeMockaroo-CRUD
 
-**EjeMockaroo-CRUD** consiste en un CRUD con distintas funcionalidades que se hace frente a una base de datos Clientes estándar;
+**EjeMockaroo-CRUD** consiste en un CRUD realizado en PHP siguiendo el MVC, este incluye distintas funcionalidades y se hace frente a una base de datos Clientes estándar;
 
 ![](https://i0.wp.com/www.unica360.com/wp-content/uploads/base_datos_clientes_marketing_analisis_comp.jpg)
 
