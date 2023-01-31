@@ -8,7 +8,7 @@
 
 <h3>Usar</h3>
 <ul>
-  <li>Extraer el archivo "EjeMockaroo-CRUD.zip" y copiar la carpeta del proyecto en la ruta de instalación de PHP.</li>
+  <li>Copiar la carpeta del proyecto "EjeMockaroo-CRUD" en la ruta de instalación de PHP.</li>
   <li>Importar en MySQL las BBDD proporcionadas.</li>
   <li>Debe cambiar el usuario y la contraseña de acceso a la BD, si estas no son <b><i>'root' y  ' '</b></i> respectivamente.</li>
 </ul>
